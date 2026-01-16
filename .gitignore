@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Outputs / logs
+*.log
+*.csv
+*.json
+*.jsonl
+
+# Google credentials (por si acaso)
+*.json
+*credentials*
+*service-account*
